@@ -11,7 +11,7 @@
         <h3>Hakkımda</h3>
     </p>
     <p>
-       <blockquote></blockquote> Merhaba ben utku antalyada yaşıyorum fişm izlemeyi severim</blockquote>
+       <blockquote></blockquote> Merhaba ben utku antalyada yaşıyorum film izlemeyi severim</blockquote>
     </p>
     <p><h3><blockquote>İlgi alanlarım</blockquote></h3></p>
    <ol>
@@ -46,7 +46,7 @@
     
 </p>
 <p>
-<img src="narak.jpg" alt="oyun içi resim">
+<img src="naraka.jpg" alt="oyun içi resim">
 </p>
 <p>
     <h4><blockquote>En sevdiğim oyundur grafiklerini severim doğu asya bölgesine ait bir oyun</blockquote></h4>
